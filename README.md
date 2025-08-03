@@ -20,3 +20,5 @@ The system provides full CRUD (Create, Read, Update, Delete) functionality for m
 * Entity Framework for data access
 
 Perfect for small restaurants, food trucks, or cafes looking for an affordable, easy-to-use menu management solution that doesn't require extensive IT infrastructure.
+
+* You can download the latest Release from [Releases](https://github.com/thetnaing-dh/.Net-CRUD-with-SQLite-DB/releases/tag/v1.0-beta)
