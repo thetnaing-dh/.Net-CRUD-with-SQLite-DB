@@ -1,9 +1,9 @@
 # Cafe Menu Item CRUD with SQLite
 
-![Alt Text](https://example.com/image.png)
+![Alt Text](https://github.com/thetnaing-dh/.Net-CRUD-with-SQLite-DB/blob/6f765dc1de9ebd75a30bbbb43395f3a0429f2eaf/C%23%20Database%20CRUD.jpg)
 
 ## Project Description
-This Menu Management System built with C# and SQLite database that allows restaurants or cafes to manage their menu items efficiently. 
+This Menu Management System built with C#.Net Core and SQLite database that allows restaurants or cafes to manage their menu items efficiently. 
 The system provides full CRUD (Create, Read, Update, Delete) functionality for menu items with the following features:
 
 ### Menu Items Management: Add, edit, view, and delete menu items
