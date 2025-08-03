@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe Menu Item CRUD with SQLite", "Cafe Menu Item CRUD with SQLite.csproj", "{CD94308A-9821-4A85-B5CC-6881C02F4BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD94308A-9821-4A85-B5CC-6881C02F4BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD94308A-9821-4A85-B5CC-6881C02F4BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD94308A-9821-4A85-B5CC-6881C02F4BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD94308A-9821-4A85-B5CC-6881C02F4BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9322733-6700-414E-BD81-D0A142AC358D}
+	EndGlobalSection
+EndGlobal
